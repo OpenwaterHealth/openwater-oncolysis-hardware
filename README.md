@@ -1,4 +1,9 @@
 # Preclinical Oncolysis Prototype
+
+## Disclaimer
+
+CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. The system described here has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with using this software.
+
 This repository contains the hardware designs as well as assembly and operation instructions for Openwater's preclinical oncolysis platform. The Openwater Preclinical Oncolysis Prototype is designed to help researchers investigate the effect of different ultrasound parameters on a variety of in vitro and preclinical in vivo targets. Certain acoustic parameters may be well suited for damaging cancer cells while sparing surrounding healthy tissue, and this system is designed to systematically explore such effects in a laboratory setting. 
 
 For additional details on the preclinical oncolysis system and its applications, refer to the [wiki](https://wiki.openwater.health/index.php/Openwater_Wiki#Oncolysis).
@@ -23,6 +28,3 @@ Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 This project is licensed under the AGPLv3 License - see the [License](LICENSE) file for details.
-
-## Disclaimer
-CAUTION - Investigational device. Limited by Federal (or United States) law to investigational use. This system has not been evaluated by the FDA and is not designed for the treatment or diagnosis of any disease. It is provided AS-IS, with no warranties. User assumes all liability and responsibility for identifying and mitigating risks associated with use
